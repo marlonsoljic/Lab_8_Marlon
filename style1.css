@@ -1,0 +1,39 @@
+body {
+  background-color: blue;
+
+}
+
+
+
+div {
+  overflow: auto;
+  background-color: blue;
+  padding: 10px;
+  border: 5px solid black;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  position: absolute;
+  top:20%;
+  right: 25%;
+
+
+
+
+}
+
+.p1 {
+    color: red;
+    border: 3px dashed green;
+    text-align: left;
+    padding: 5px;
+
+}
+
+img {
+  border: 3px dashed yellow;
+  float: left;
+  max-width: 400px;
+  max-height: 200px;
+  padding: 10px;
+}
